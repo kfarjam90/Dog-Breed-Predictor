@@ -1,6 +1,6 @@
-# Medicine Recommendation System Using Python
+# Dog Breed Predictor+flask
 
 
 ### Demo Video
 
-[![Watch the demo video](image.png)](https://www.youtube.com/watch?v=WAuEqjVhowI)
+[![Watch the demo video](image.png)](https://www.youtube.com/watch?v=lWTd6AS0Dhk)
